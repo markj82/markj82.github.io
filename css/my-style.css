@@ -64,6 +64,10 @@ p {
     color: black;
 }
 
+.card-text p {
+    color: black;
+}
+
 .not-cover-nav {
     padding-top: 6%;
 }
