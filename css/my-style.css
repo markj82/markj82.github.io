@@ -28,7 +28,7 @@
 
 .projects {
     /* temporary height */
-    height: 200px;
+    height: 600px;
 }
 
 .my-photo {
@@ -56,6 +56,13 @@ body {
 h2 {
     font-weight: 100;
     letter-spacing: 0.2em;
-    text-align: center;
-   
+    text-align: center; 
+}
+
+p {
+    font-size: 1.3em;
+}
+
+.not-cover-nav {
+    padding-top: 6%;
 }
