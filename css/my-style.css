@@ -27,8 +27,8 @@
 }
 
 .projects {
-    /* temporary height */
-    height: 600px;
+    /* temporary height, need to change it to be responsive */
+    height: 1200px;
 }
 
 .my-photo {
@@ -50,7 +50,7 @@ h3, h5 {
 
 /* temp */
 body {
-    height: 300vh;
+    height: 500vh;
 }
 
 h2 {
